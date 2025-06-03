@@ -15,3 +15,48 @@ body{
 .leftside p{
     font-size: 30px;
 }
+
+.jungle{
+text-align: center;
+margin-bottom: 70px;
+}
+
+.jungle p{
+    font-size: 30px;
+}
+.jungle button{
+    padding: 15px;
+}
+
+.drip{
+    display: flex;
+    justify-content: space-around;
+}
+.line{
+    background-color: black;
+    height: 1px;
+}
+
+.inner{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.str{
+    background-color: black;
+    height: 1px;
+    width: 190px;
+}
+
+.wash{
+    margin-top: 20px;
+}
+.grr{
+    margin-top: 15px;
+}
