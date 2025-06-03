@@ -26,6 +26,10 @@ margin-bottom: 70px;
 }
 .jungle button{
     padding: 15px;
+    color: black;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: black;
 }
 
 .drip{
@@ -73,4 +77,31 @@ margin-bottom: 70px;
     justify-content: center;
     margin-top: 50px;
     margin-bottom: 100px;
+}
+.black{
+    height: 32px;
+    background-color: black;
+}
+
+.black p{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.spar{
+    font-size: 19px;
+}
+.tell{
+    font-size: 40px;
+}
+.cover button{
+    padding: 15px;
+    color: black;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: black;
+}
+.supp{
+text-align: center;
+margin-bottom: 150px;
 }
